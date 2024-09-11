@@ -1,0 +1,460 @@
+Date;Description;Status;productSlug (metadata);customer_id;order__id
+31.05.2024 21:58;KajoDataSpace;Paid;kajodataspace;1;1
+31.05.2024 21:14;Subscription creation;Paid;kajodataspace;2;2
+31.05.2024 21:04;Subscription creation;Paid;kajodataspace;3;3
+31.05.2024 20:43;KajoDataSpace;Paid;kajodataspace;4;4
+31.05.2024 20:41;Subscription creation;Paid;kajodataspace;5;5
+31.05.2024 20:27;Subscription creation;Paid;kajodataspace;6;6
+31.05.2024 20:20;Subscription creation;Paid;kajodataspace;7;7
+31.05.2024 20:09;Subscription creation;Paid;kajodataspace;8;8
+31.05.2024 20:02;KajoDataSpace;Paid;kajodataspace;9;9
+31.05.2024 19:55;Subscription creation;Paid;kajodataspace;10;10
+31.05.2024 18:48;Subscription creation;Refunded;kajodataspace;11;11
+31.05.2024 18:04;KajoDataSpace;Paid;kajodataspace;12;12
+31.05.2024 17:59;Subscription creation;Paid;kajodataspace;13;13
+31.05.2024 17:40;Subscription creation;Paid;kajodataspace;14;14
+31.05.2024 17:37;Subscription creation;Paid;kajodataspace;15;15
+31.05.2024 16:31;Subscription creation;Paid;kajodataspace;16;16
+31.05.2024 15:49;Subscription creation;Paid;kajodataspace;17;17
+31.05.2024 15:32;Subscription creation;Paid;kajodataspace;18;18
+31.05.2024 14:48;KajoDataSpace;Paid;kajodataspace;19;19
+31.05.2024 14:31;Subscription creation;Paid;kajodataspace;20;20
+31.05.2024 09:41;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;21;21
+31.05.2024 09:39;Subscription creation;Paid;kajodataspace;22;22
+31.05.2024 09:11;Subscription creation;Paid;kajodataspace;23;23
+31.05.2024 04:42;KajoDataSpace;Paid;kajodataspace;24;24
+30.05.2024 20:29;Subscription creation;Paid;kajodataspace;25;25
+30.05.2024 19:23;KajoDataSpace;Paid;kajodataspace;26;26
+30.05.2024 17:18;Subscription creation;Paid;kajodataspace;27;27
+30.05.2024 16:22;KajoDataSpace;Paid;kajodataspace;28;28
+30.05.2024 15:59;Subscription creation;Paid;kajodataspace;29;29
+30.05.2024 15:01;Subscription creation;Paid;kajodataspace;30;30
+30.05.2024 11:29;Subscription creation;Refunded;kajodataspace;31;31
+30.05.2024 10:04;Subscription creation;Paid;kajodataspace;32;32
+30.05.2024 09:46;KajoDataSpace;Paid;kajodataspace;33;33
+30.05.2024 08:46;Subscription creation;Paid;kajodataspace;21;34
+29.05.2024 19:28;Subscription creation;Paid;kajodataspace;34;35
+29.05.2024 19:08;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;35;36
+29.05.2024 16:57;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;36;37
+29.05.2024 11:51;Subscription creation;Paid;kajodataspace;37;38
+29.05.2024 10:29;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;38;39
+29.05.2024 07:28;Subscription creation;Paid;kajodataspace;39;40
+28.05.2024 19:43;Subscription creation;Paid;kajodataspace;40;41
+28.05.2024 19:28;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;41;42
+28.05.2024 15:04;Subscription creation;Paid;kajodataspace;42;43
+27.05.2024 10:31;Subscription creation;Refunded;kajodataspace;43;44
+27.05.2024 09:09;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;44;45
+26.05.2024 18:11;KajoDataSpace;Paid;kajodataspace;45;46
+26.05.2024 17:32;Subscription creation;Paid;kajodataspace;46;47
+26.05.2024 11:04;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;47;48
+26.05.2024 08:50;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;48;49
+25.05.2024 12:53;Kurs Analiza danych w SQL;Refunded;sql-analiza-danych;49;50
+24.05.2024 17:17;Subscription creation;Paid;kajodataspace;50;51
+24.05.2024 16:57;Subscription creation;Paid;kajodataspace;51;52
+24.05.2024 16:37;Pakiet nagrañ 5 webinarów: Zmiana bran¿y i praca analityka;Paid;pakiet-webinarow-zmiana-pracy-na-analityka;52;53
+24.05.2024 16:35;Subscription creation;Paid;kajodataspace;53;54
+24.05.2024 16:31;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;52;55
+24.05.2024 16:08;KajoDataSpace;Paid;kajodataspace;54;56
+24.05.2024 15:53;Subscription creation;Paid;kajodataspace;55;57
+24.05.2024 12:59;Subscription creation;Paid;kajodataspace;56;58
+24.05.2024 12:58;Subscription creation;Failed;kajodataspace;56;58
+24.05.2024 12:48;KajoDataSpace;Paid;kajodataspace;57;59
+23.05.2024 21:43;Subscription creation;Paid;kajodataspace;58;60
+23.05.2024 20:54;Subscription creation;Paid;kajodataspace;59;61
+23.05.2024 19:45;KajoDataSpace;Paid;kajodataspace;60;62
+23.05.2024 19:22;Subscription creation;Paid;kajodataspace;61;63
+23.05.2024 18:46;Subscription creation;Paid;kajodataspace;62;64
+23.05.2024 18:46;KajoDataSpace;Paid;kajodataspace;63;65
+23.05.2024 13:48;Subscription creation;Paid;kajodataspace;64;66
+23.05.2024 11:35;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;65;67
+23.05.2024 06:55;Subscription creation;Paid;kajodataspace;66;68
+22.05.2024 18:27;Subscription creation;Paid;kajodataspace;67;69
+22.05.2024 14:45;Subscription creation;Paid;kajodataspace;68;70
+22.05.2024 09:46;KajoDataSpace;Paid;kajodataspace;69;71
+21.05.2024 19:14;KajoDataSpace;Paid;kajodataspace;70;72
+21.05.2024 18:44;KajoDataSpace;Paid;kajodataspace;71;73
+20.05.2024 14:33;Subscription creation;Paid;kajodataspace;72;74
+20.05.2024 12:16;Subscription creation;Paid;kajodataspace;73;75
+19.05.2024 12:43;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;46;76
+17.05.2024 10:55;Subscription creation;Paid;kajodataspace;74;77
+17.05.2024 09:55;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;75;78
+17.05.2024 09:52;Kurs Analiza danych w Microsoft Excel;Failed;excel-analiza-danych;75;79
+15.05.2024 20:10;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;44;80
+15.05.2024 09:43;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;76;81
+14.05.2024 17:51;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;77;82
+13.05.2024 13:24;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;78;83
+13.05.2024 07:27;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;79;84
+12.05.2024 16:57;KajoDataSpace;Paid;kajodataspace;80;85
+11.05.2024 22:12;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;81;86
+10.05.2024 21:04;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;70;87
+10.05.2024 17:11;Subscription creation;Paid;kajodataspace;82;88
+07.05.2024 09:49;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;83;89
+07.05.2024 06:45;Subscription creation;Paid;kajodataspace;84;90
+06.05.2024 10:36;Subscription creation;Paid;kajodataspace;83;91
+04.05.2024 16:19;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;85;92
+02.05.2024 17:09;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;86;93
+02.05.2024 08:54;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;87;94
+01.05.2024 14:35;Subscription creation;Paid;kajodataspace;88;95
+28.04.2024 18:54;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;89;96
+28.04.2024 18:52;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;90;97
+28.04.2024 18:43;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;91;98
+28.04.2024 18:27;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;92;99
+28.04.2024 18:18;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;93;100
+28.04.2024 18:02;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;94;101
+28.04.2024 18:01;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;95;102
+28.04.2024 16:59;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;96;103
+28.04.2024 16:17;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;97;104
+28.04.2024 16:08;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;98;105
+28.04.2024 15:40;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;99;106
+28.04.2024 15:39;Pakiet Kursów Analiza Danych w Excelu i SQL;Failed;pakiet-excel-sql;99;107
+28.04.2024 14:36;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;66;108
+28.04.2024 14:22;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;16;109
+28.04.2024 14:11;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;100;110
+28.04.2024 14:05;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;101;111
+28.04.2024 12:53;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;102;112
+28.04.2024 12:47;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;103;113
+28.04.2024 10:45;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;104;114
+28.04.2024 09:29;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;105;115
+28.04.2024 06:00;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;106;116
+27.04.2024 22:38;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;67;117
+27.04.2024 21:59;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;107;118
+27.04.2024 15:28;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;108;119
+27.04.2024 10:59;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;109;120
+26.04.2024 19:54;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;110;121
+26.04.2024 18:52;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;111;122
+26.04.2024 16:45;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;112;123
+26.04.2024 14:59;Kurs Analiza danych w Microsoft Excel;Paid;;113;124
+26.04.2024 12:09;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;114;125
+26.04.2024 12:07;Subscription creation;Paid;kajodataspace;114;126
+26.04.2024 10:13;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;115;127
+25.04.2024 20:48;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;116;128
+25.04.2024 17:27;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;117;129
+25.04.2024 12:21;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;118;130
+23.04.2024 19:42;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;119;131
+23.04.2024 15:37;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;120;132
+23.04.2024 13:44;Subscription creation;Paid;kajodataspace;121;133
+20.04.2024 11:14;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;122;134
+19.04.2024 08:12;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;123;135
+18.04.2024 15:59;KajoDataSpace;Paid;kajodataspace;124;136
+17.04.2024 06:38;KajoDataSpace;Paid;kajodataspace;125;137
+16.04.2024 16:22;KajoDataSpace;Paid;kajodataspace;126;138
+15.04.2024 12:55;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;127;139
+15.04.2024 11:56;Subscription creation;Paid;kajodataspace;128;140
+14.04.2024 16:50;KajoDataSpace;Paid;kajodataspace;129;141
+13.04.2024 10:03;KajoDataSpace;Paid;kajodataspace;130;142
+12.04.2024 19:17;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;131;143
+12.04.2024 16:20;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;132;144
+11.04.2024 14:08;Subscription creation;Paid;kajodataspace;133;145
+11.04.2024 11:23;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;134;146
+10.04.2024 22:37;KajoDataSpace;Paid;kajodataspace;135;147
+10.04.2024 18:48;KajoDataSpace;Paid;kajodataspace;136;148
+10.04.2024 18:05;Subscription creation;Paid;kajodataspace;105;149
+10.04.2024 18:03;Subscription creation;Failed;kajodataspace;105;149
+07.04.2024 12:51;Pakiet nagrañ 5 webinarów: Zmiana bran¿y i praca analityka;Paid;pakiet-webinarow-zmiana-pracy-na-analityka;135;150
+05.04.2024 21:08;Subscription creation;Paid;kajodataspace;137;151
+05.04.2024 15:02;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;113;152
+05.04.2024 08:24;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;138;153
+04.04.2024 07:59;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;139;154
+03.04.2024 21:32;Pakiet nagrañ 5 webinarów: Zmiana bran¿y i praca analityka;Paid;pakiet-webinarow-zmiana-pracy-na-analityka;140;155
+03.04.2024 16:55;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;141;156
+03.04.2024 13:09;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;142;157
+03.04.2024 11:50;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;143;158
+03.04.2024 10:45;KajoDataSpace;Paid;kajodataspace;144;159
+02.04.2024 22:58;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;145;160
+02.04.2024 22:53;Subscription creation;Paid;kajodataspace;145;161
+02.04.2024 12:26;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;146;162
+01.04.2024 19:26;KajoDataSpace;Paid;kajodataspace;147;163
+31.03.2024 15:34;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;148;164
+30.03.2024 17:10;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;149;165
+29.03.2024 09:13;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;3;166
+27.03.2024 14:20;Subscription creation;Paid;kajodataspace;150;167
+26.03.2024 16:15;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;151;168
+25.03.2024 19:33;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;152;169
+25.03.2024 17:20;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;153;170
+24.03.2024 12:14;KajoDataSpace;Paid;kajodataspace;50;171
+24.03.2024 12:10;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;50;172
+23.03.2024 20:28;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;154;173
+23.03.2024 11:49;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;155;174
+22.03.2024 21:03;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;156;175
+22.03.2024 13:04;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;157;176
+21.03.2024 19:08;Subscription creation;Paid;kajodataspace;158;177
+21.03.2024 11:30;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;159;178
+20.03.2024 18:41;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;160;179
+20.03.2024 12:20;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;161;180
+20.03.2024 12:04;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;162;181
+20.03.2024 11:58;Subscription creation;Paid;kajodataspace;154;182
+20.03.2024 10:52;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;163;183
+18.03.2024 17:55;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;164;184
+17.03.2024 09:30;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;165;185
+15.03.2024 07:46;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;166;186
+13.03.2024 17:34;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;167;187
+12.03.2024 16:10;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;168;188
+12.03.2024 15:24;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;169;189
+11.03.2024 12:59;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;170;190
+11.03.2024 07:25;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;171;191
+10.03.2024 17:55;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;172;192
+10.03.2024 17:53;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;173;193
+10.03.2024 17:52;Pakiet Kursów Analiza Danych w Excelu i SQL;Failed;pakiet-excel-sql;173;194
+10.03.2024 17:50;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;174;195
+10.03.2024 17:41;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;175;196
+10.03.2024 17:37;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;176;197
+10.03.2024 17:35;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;177;198
+10.03.2024 17:34;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;178;199
+10.03.2024 17:30;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;179;200
+10.03.2024 17:23;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;;180;201
+10.03.2024 16:57;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;181;202
+10.03.2024 16:55;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;182;203
+10.03.2024 16:52;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;20;204
+10.03.2024 16:11;KajoDataSpace;Paid;kajodataspace;183;205
+10.03.2024 15:43;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;184;206
+10.03.2024 14:54;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;185;207
+10.03.2024 14:13;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;186;208
+10.03.2024 10:55;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;187;209
+10.03.2024 08:14;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;188;210
+10.03.2024 07:46;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;189;211
+09.03.2024 22:23;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;190;212
+09.03.2024 22:01;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;191;213
+09.03.2024 20:31;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;192;214
+09.03.2024 20:23;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;193;215
+09.03.2024 19:16;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;194;216
+09.03.2024 17:42;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;195;217
+09.03.2024 15:36;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;196;218
+09.03.2024 13:47;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;197;219
+09.03.2024 10:52;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;198;220
+09.03.2024 09:59;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;199;221
+09.03.2024 08:53;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;200;222
+09.03.2024 07:37;KajoDataSpace;Paid;kajodataspace;201;223
+09.03.2024 00:16;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;202;224
+08.03.2024 20:29;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;203;225
+08.03.2024 20:29;Kurs Analiza danych w Microsoft Excel;Failed;excel-analiza-danych;203;226
+08.03.2024 20:05;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;204;227
+08.03.2024 18:42;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;205;228
+08.03.2024 14:51;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;206;229
+08.03.2024 12:35;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;207;230
+08.03.2024 10:16;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;208;231
+08.03.2024 10:15;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;209;232
+08.03.2024 10:05;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;210;233
+08.03.2024 09:57;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;51;234
+08.03.2024 09:41;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;211;235
+08.03.2024 00:08;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;212;236
+07.03.2024 21:55;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;213;237
+07.03.2024 21:13;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;71;238
+07.03.2024 20:54;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;214;239
+07.03.2024 19:55;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;215;240
+07.03.2024 19:28;Pakiet Kursów Analiza Danych w Excelu i SQL;Paid;pakiet-excel-sql;216;241
+07.03.2024 19:21;KajoDataSpace;Paid;kajodataspace;217;242
+07.03.2024 12:52;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;218;243
+07.03.2024 12:42;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;219;244
+05.03.2024 21:29;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;220;245
+05.03.2024 18:21;KajoDataSpace;Paid;kajodataspace;221;246
+05.03.2024 15:28;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;190;247
+05.03.2024 10:49;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;222;248
+05.03.2024 07:24;Subscription creation;Paid;kajodataspace;223;249
+04.03.2024 10:46;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;224;250
+04.03.2024 09:32;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;75;251
+03.03.2024 16:10;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;225;252
+03.03.2024 12:42;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;193;253
+02.03.2024 15:19;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;226;254
+01.03.2024 17:02;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;227;255
+01.03.2024 16:45;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;228;256
+29.02.2024 23:40;Subscription creation;Paid;kajodataspace;229;257
+29.02.2024 23:07;Subscription creation;Paid;kajodataspace;230;258
+29.02.2024 09:52;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;231;259
+27.02.2024 19:10;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;147;260
+27.02.2024 18:53;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;232;261
+27.02.2024 10:02;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;233;262
+27.02.2024 09:07;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;234;263
+26.02.2024 18:22;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;235;264
+26.02.2024 17:17;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;236;265
+26.02.2024 12:25;Subscription creation;Paid;kajodataspace;213;266
+26.02.2024 09:39;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;224;267
+26.02.2024 07:27;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;237;268
+24.02.2024 15:04;Subscription creation;Paid;kajodataspace;238;269
+24.02.2024 10:31;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;228;270
+23.02.2024 19:39;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;239;271
+23.02.2024 13:42;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;108;272
+23.02.2024 13:30;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;125;273
+23.02.2024 13:29;Kurs Analiza danych w Microsoft Excel;Failed;excel-analiza-danych;125;274
+23.02.2024 13:13;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;240;275
+23.02.2024 12:04;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;241;276
+23.02.2024 11:03;Subscription creation;Paid;kajodataspace;242;277
+23.02.2024 11:02;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;51;278
+23.02.2024 06:40;Subscription creation;Paid;kajodataspace;198;279
+22.02.2024 21:10;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;56;280
+22.02.2024 21:06;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;56;281
+22.02.2024 18:00;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;15;282
+22.02.2024 11:01;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;243;283
+22.02.2024 10:26;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;134;284
+22.02.2024 09:58;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;154;285
+21.02.2024 19:30;KajoDataSpace;Refunded;kajodataspace;244;286
+21.02.2024 07:59;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;245;287
+19.02.2024 17:18;Subscription creation;Paid;kajodataspace;246;288
+19.02.2024 15:57;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;247;289
+18.02.2024 15:49;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;248;290
+18.02.2024 15:48;Kurs Analiza danych w Microsoft Excel;Failed;excel-analiza-danych;248;291
+17.02.2024 21:21;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;249;292
+17.02.2024 11:33;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;250;293
+17.02.2024 10:03;Subscription creation;Paid;kajodataspace;251;294
+16.02.2024 21:04;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;233;295
+16.02.2024 20:00;Subscription creation;Paid;kajodataspace;252;296
+15.02.2024 18:29;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;253;297
+15.02.2024 09:32;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;22;298
+14.02.2024 09:49;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;254;299
+14.02.2024 07:32;Subscription creation;Paid;kajodataspace;255;300
+13.02.2024 11:09;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;256;301
+13.02.2024 05:31;Subscription creation;Paid;kajodataspace;257;302
+12.02.2024 11:04;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;258;303
+12.02.2024 10:11;Subscription creation;Paid;kajodataspace;259;304
+12.02.2024 07:55;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;22;305
+11.02.2024 17:45;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;260;306
+11.02.2024 10:46;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;261;307
+10.02.2024 10:16;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;258;308
+09.02.2024 12:51;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;262;309
+09.02.2024 09:43;KajoDataSpace;Paid;kajodataspace;263;310
+08.02.2024 19:04;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;264;311
+07.02.2024 18:18;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;265;312
+07.02.2024 18:15;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;266;313
+07.02.2024 15:11;Subscription creation;Paid;kajodataspace;27;314
+06.02.2024 11:03;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;267;315
+05.02.2024 19:11;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;217;316
+05.02.2024 08:28;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;268;317
+04.02.2024 17:22;KajoDataSpace;Paid;kajodataspace;269;318
+04.02.2024 11:55;Kurs Analiza danych w SQL;Paid;;270;319
+04.02.2024 11:04;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;271;320
+04.02.2024 00:47;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;272;321
+03.02.2024 18:27;Subscription creation;Paid;kajodataspace;273;322
+02.02.2024 09:30;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;274;323
+31.01.2024 09:50;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;275;324
+31.01.2024 07:52;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;276;325
+30.01.2024 19:03;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;277;326
+30.01.2024 10:39;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;278;327
+29.01.2024 13:25;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;279;328
+28.01.2024 21:12;Subscription creation;Paid;kajodataspace;61;329
+27.01.2024 08:00;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;280;330
+26.01.2024 21:11;Subscription creation;Paid;kajodataspace;281;331
+26.01.2024 21:10;Subscription creation;Paid;kajodataspace;282;332
+26.01.2024 21:00;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;282;333
+25.01.2024 18:22;KajoDataSpace;Paid;kajodataspace;283;334
+25.01.2024 18:17;KajoDataSpace;Failed;kajodataspace;283;335
+25.01.2024 16:39;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;284;336
+25.01.2024 11:34;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;242;337
+24.01.2024 16:19;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;285;338
+24.01.2024 13:05;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;286;339
+24.01.2024 11:51;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;128;340
+23.01.2024 20:56;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;281;341
+23.01.2024 10:36;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;287;342
+22.01.2024 12:45;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;288;343
+21.01.2024 19:59;KajoDataSpace;Paid;kajodataspace;289;344
+21.01.2024 19:17;Subscription creation;Paid;kajodataspace;119;345
+21.01.2024 18:52;Subscription creation;Failed;kajodataspace;289;346
+21.01.2024 18:43;Subscription creation;Failed;kajodataspace;289;346
+21.01.2024 17:25;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;290;347
+21.01.2024 13:29;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;291;348
+20.01.2024 20:11;Subscription creation;Failed;kajodataspace;289;349
+20.01.2024 20:11;Subscription creation;Failed;kajodataspace;289;349
+20.01.2024 20:10;Subscription creation;Failed;kajodataspace;289;349
+20.01.2024 20:09;Subscription creation;Failed;kajodataspace;289;349
+20.01.2024 20:05;Subscription creation;Failed;kajodataspace;289;349
+20.01.2024 20:02;Subscription creation;Failed;kajodataspace;289;350
+20.01.2024 19:09;Subscription creation;Failed;kajodataspace;289;351
+20.01.2024 19:06;Subscription creation;Failed;kajodataspace;289;351
+20.01.2024 19:03;Subscription creation;Failed;kajodataspace;289;352
+20.01.2024 19:00;Subscription creation;Failed;kajodataspace;289;353
+20.01.2024 18:59;Subscription creation;Failed;kajodataspace;289;353
+20.01.2024 18:58;Subscription creation;Failed;kajodataspace;289;354
+20.01.2024 18:57;Subscription creation;Failed;kajodataspace;289;354
+19.01.2024 12:26;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;292;355
+19.01.2024 07:48;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;11;356
+17.01.2024 13:51;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;293;357
+16.01.2024 18:39;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;294;358
+15.01.2024 21:50;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;295;359
+15.01.2024 18:46;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;296;360
+15.01.2024 18:34;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;281;361
+15.01.2024 17:42;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;297;362
+14.01.2024 16:05;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;298;363
+13.01.2024 19:01;Subscription creation;Paid;kajodataspace;299;364
+12.01.2024 20:58;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;300;365
+12.01.2024 15:19;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;301;366
+12.01.2024 10:11;Subscription creation;Paid;kajodataspace;302;367
+10.01.2024 16:08;KajoDataSpace;Paid;kajodataspace;303;368
+09.01.2024 18:29;Subscription creation;Paid;kajodataspace;241;369
+09.01.2024 08:02;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;304;370
+08.01.2024 17:41;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;305;371
+08.01.2024 07:35;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;306;372
+07.01.2024 19:31;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;307;373
+07.01.2024 17:55;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;308;374
+07.01.2024 17:52;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;309;375
+07.01.2024 17:52;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;310;376
+07.01.2024 17:49;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;311;377
+07.01.2024 17:49;Subscription creation;Paid;kajodataspace;312;378
+07.01.2024 17:48;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;309;379
+07.01.2024 17:45;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;313;380
+07.01.2024 17:43;Subscription creation;Paid;kajodataspace;264;381
+07.01.2024 17:41;KajoDataSpace;Paid;kajodataspace;314;382
+07.01.2024 17:35;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;218;383
+07.01.2024 17:29;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;315;384
+07.01.2024 17:25;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;315;385
+07.01.2024 17:20;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;316;386
+07.01.2024 17:10;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;317;387
+07.01.2024 17:06;Subscription creation;Paid;kajodataspace;318;388
+07.01.2024 16:59;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;319;389
+07.01.2024 16:54;Subscription creation;Paid;kajodataspace;286;390
+07.01.2024 16:48;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;320;391
+07.01.2024 16:45;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;321;392
+07.01.2024 16:15;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;230;393
+07.01.2024 15:55;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;322;394
+07.01.2024 15:53;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;230;395
+07.01.2024 15:30;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;323;396
+07.01.2024 15:25;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;324;397
+07.01.2024 15:20;Kurs Analiza danych w Microsoft Excel;Refunded;excel-analiza-danych;325;398
+07.01.2024 15:13;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;326;399
+07.01.2024 15:10;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;102;400
+07.01.2024 15:08;Subscription creation;Paid;kajodataspace;327;401
+07.01.2024 15:07;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;328;402
+07.01.2024 13:53;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;329;403
+07.01.2024 13:53;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;330;404
+07.01.2024 13:47;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;331;405
+07.01.2024 13:39;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;332;406
+07.01.2024 12:46;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;333;407
+07.01.2024 12:17;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;10;408
+07.01.2024 12:15;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;10;409
+07.01.2024 12:15;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;326;410
+07.01.2024 11:46;Subscription creation;Paid;kajodataspace;334;411
+07.01.2024 11:45;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;335;412
+07.01.2024 11:43;Subscription creation;Failed;kajodataspace;334;411
+07.01.2024 10:04;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;336;413
+06.01.2024 19:57;KajoDataSpace;Paid;kajodataspace;337;414
+06.01.2024 18:18;Subscription creation;Paid;kajodataspace;338;415
+06.01.2024 18:15;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;339;416
+06.01.2024 16:51;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;340;417
+06.01.2024 16:41;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;341;418
+06.01.2024 16:39;Subscription creation;Paid;kajodataspace;342;419
+06.01.2024 15:59;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;343;420
+06.01.2024 15:34;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;344;421
+06.01.2024 13:21;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;345;422
+05.01.2024 21:13;KajoDataSpace;Refunded;kajodataspace;346;423
+05.01.2024 17:19;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;347;424
+05.01.2024 10:10;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;348;425
+05.01.2024 10:05;KajoDataSpace;Paid;kajodataspace;349;426
+04.01.2024 19:49;KajoDataSpace;Paid;kajodataspace;350;427
+04.01.2024 19:27;Subscription creation;Paid;kajodataspace;351;428
+04.01.2024 18:02;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;352;429
+04.01.2024 05:55;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;39;430
+03.01.2024 22:53;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;353;431
+03.01.2024 20:04;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;354;432
+03.01.2024 17:12;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;355;433
+03.01.2024 16:45;Subscription creation;Paid;kajodataspace;356;434
+03.01.2024 15:09;KajoDataSpace;Paid;kajodataspace;357;435
+03.01.2024 15:01;KajoDataSpace;Paid;kajodataspace;358;436
+03.01.2024 10:04;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;359;437
+03.01.2024 10:03;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;360;438
+03.01.2024 09:55;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;361;439
+03.01.2024 09:29;Kurs Analiza danych w Microsoft Excel;Paid;excel-analiza-danych;362;440
+03.01.2024 09:29;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;362;441
+02.01.2024 20:14;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;363;442
+02.01.2024 17:38;Subscription creation;Paid;kajodataspace;256;443
+02.01.2024 11:02;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;359;444
+01.01.2024 15:40;Subscription creation;Paid;kajodataspace;364;445
+01.01.2024 15:35;Subscription creation;Failed;kajodataspace;364;445
+01.01.2024 15:20;Kurs Analiza danych w SQL;Paid;sql-analiza-danych;364;446
+01.01.2024 15:17;Kurs Analiza danych w SQL;Failed;sql-analiza-danych;364;447
